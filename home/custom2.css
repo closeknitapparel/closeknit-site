@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.nav-logo {
+	display: inline-block;
+	margin: 10px 0 10px 10px;
+}
+
+div.logo-bar {
+	background-color: black;
+	width: 100%;
+}
+
+.logo-bar img{
+	max-width: 150px;
+	max-height: 150px;
+}
+
+nav {
+	background-color: red;
+	height: 100px;
+}
+
+.nav-links {
+	margin: 65px 0 0 0;
+}
+
+nav ul {
+	float: right;
+	list-style: none;	
+}
+
+nav ul li {
+	display: inline-block;
+	padding-right: 20px;
+	text-decoration: none;
+	font-size: 15px;
+}
+
+nav a:hover {
+	text-decoration: none;
+	color: red;
+}
+
+
+
+
+

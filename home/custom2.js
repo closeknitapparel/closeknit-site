@@ -1,0 +1,1 @@
+$('#nav-header').hide().show('slide', {direction: 'left'}, 1000);
